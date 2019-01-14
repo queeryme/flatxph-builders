@@ -1,3 +1,8 @@
+# DO NOT USE THIS PACKAGE
+This is just a sample project to study npm publishing of angular builder projects.
+This is forked from the original by @angular-builders/timestamp and any changes to this
+code will not reflect the orignal one.
+
 # Timestamp builder for Angular build facade
 [![npm version](https://img.shields.io/npm/v/@angular-builders/timestamp.svg) ![npm](https://img.shields.io/npm/dm/@angular-builders/timestamp.svg)](https://www.npmjs.com/package/@angular-builders/timestamp)  
 
