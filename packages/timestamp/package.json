@@ -1,6 +1,6 @@
 {
-  "name": "@angular-builders/timestamp",
-  "version": "7.2.0",
+  "name": "@flatxph/timestamp",
+  "version": "7.2.1",
   "license": "MIT",
   "author": "Evgeny Barabanov",
   "builders": "builders.json",
